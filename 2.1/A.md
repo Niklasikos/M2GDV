@@ -1,18 +1,21 @@
-# Oefening 2.1A Array
+# Oefening 2.1 Forces and Collision
 
 ## Beschrijving
 
-Ik heb een Array gemaakt die ik in de inspector kan vullen en met input random of alle items kan oproepen in de console
+Ik heb een Ball gemaakt die ik schieten kan met de a en d toets en die collisions detecteerd en in de debug console meldt.
 
 ## Wat ik geleerd heb
 
-* Hoe ik met Arrays werk
-* Hoe ik met de Random functie werk
+* Hoe ik Collisions detecteer
+* Hoe ik met input en add force werk
 
 ## GIF
 
-![GIF van het Array in de Console](/2.1/UnityArray.gif)
+![GIF van de opdracht](/2.1/ForcesNCollisions.gif)
 
 ## Script
 
-![Beeld van het script](/2.1/Schermafbeelding%202025-11-27%20140711.png)
+![Beeld van het script](/2.1/Schermafbeelding%202025-12-04%20143334.png)
+
+![Beeld van het script2](/2.1/Schermafbeelding%202025-12-04%20143914.png)
+
