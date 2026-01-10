@@ -13,7 +13,7 @@ Ik heb een Ball gemaakt die ik schieten kan met de a en d toets en die collision
 
 ![GIF van de opdracht](/2.1/ForcesNCollisions.gif)
 
-## Script
+## Scripts
 
 ![Beeld van het script](/2.1/Schermafbeelding%202025-12-04%20143334.png)
 
