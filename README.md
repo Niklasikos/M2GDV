@@ -34,4 +34,4 @@ Mijn files en opdrachten voor GDV module 2
 
 ### 6.1
 
-> [Opdracht 6.1 Afronden en Uitbreiden](/5.2/A.md)
+> [Opdracht 6.1 Afronden en Uitbreiden](/6.1/A.md)
