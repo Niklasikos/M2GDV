@@ -31,3 +31,7 @@ Mijn files en opdrachten voor GDV module 2
 ### 5.2 
 
 > [Opdracht 5.2 Peggle Game, Particles, Sounds & Shakes](/5.2/A.md)
+
+### 6.1
+
+> [Opdracht 6.1 Afronden en Uitbreiden](/5.2/A.md)
